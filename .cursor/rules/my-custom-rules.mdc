@@ -1,0 +1,8 @@
+---
+description: Pages Router pattern
+globs: 
+alwaysApply: false
+---
+
+# My rules
+- For this Next.js project, please maintain consistency with the Pages Router pattern (pages/index.js) and avoid suggestions based on the App Router (app/page.js) approach."

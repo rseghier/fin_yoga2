@@ -54,12 +54,36 @@ export function SearchProvider({ children }) {
     setSearchResults(results);
   };
 
+  // Style search function
+  const performStyleSearch = (term) => {
+    setSearchTerm(term);
+    
+    if (!term.trim()) {
+      setSearchResults([]);
+      return;
+    }
+    
+    const lowerTerm = term.toLowerCase();
+    
+    // Search only in tags
+    const results = searchIndex.filter(studio => {
+      return (
+        studio.tags && studio.tags.some(tag => 
+          tag.toLowerCase().includes(lowerTerm)
+        )
+      );
+    });
+    
+    setSearchResults(results);
+  };
+
   const value = {
     searchTerm,
     setSearchTerm,
     searchResults,
     isLoading,
     performSearch,
+    performStyleSearch,
   };
 
   return <SearchContext.Provider value={value}>{children}</SearchContext.Provider>;

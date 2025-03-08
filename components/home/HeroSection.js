@@ -5,18 +5,20 @@ import { useSearch } from '../../contexts/SearchContext';
 export default function HeroSection() {
   const [locationSearch, setLocationSearch] = useState('');
   const [styleSearch, setStyleSearch] = useState('');
-  const { performSearch } = useSearch();
+  const { performSearch, performStyleSearch } = useSearch();
   
   // Debounce search to avoid excessive rendering
   useEffect(() => {
     const timer = setTimeout(() => {
-      // Prioritize location search, but if empty use style search
-      const searchTerm = locationSearch || styleSearch;
-      performSearch(searchTerm);
+      if (locationSearch) {
+        performSearch(locationSearch);
+      } else if (styleSearch) {
+        performStyleSearch(styleSearch);
+      }
     }, 300); // 300ms debounce
     
     return () => clearTimeout(timer);
-  }, [locationSearch, styleSearch, performSearch]);
+  }, [locationSearch, styleSearch, performSearch, performStyleSearch]);
 
   const handleLocationChange = (e) => {
     setLocationSearch(e.target.value);
