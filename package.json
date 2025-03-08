@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/verify-city-pages.js",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "verify-cities": "node scripts/verify-city-pages.js"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

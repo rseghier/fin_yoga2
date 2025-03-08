@@ -116,4 +116,48 @@ export function getFeaturedStudios(limit = 4) {
     console.error('Error getting featured studios:', error);
     return [];
   }
+}
+
+/**
+ * Get studios filtered by city
+ * @param {string} city - The city name to filter studios by
+ * @param {number} limit - Maximum number of studios to return
+ * @returns {Array} - Array of studio data objects in the specified city
+ */
+export function getStudiosByCity(city, limit = 10) {
+  try {
+    // Normalize the city name for comparison (replace spaces with underscores)
+    const normalizedCityName = city.replace(/\s+/g, '_').toLowerCase();
+    
+    // Get all studios data without limit
+    const allStudios = getFeaturedStudios(100); // Get a large number temporarily
+    
+    // Filter studios by the normalized city name
+    const cityStudios = allStudios.filter(studio => {
+      if (!studio.city) return false;
+      
+      // Normalize the studio city name for comparison (case-insensitive)
+      const normalizedStudioCity = studio.city.replace(/\s+/g, '_').toLowerCase();
+      return normalizedStudioCity === normalizedCityName;
+    });
+    
+    // Sort studios by rating (highest first)
+    const sortedStudios = cityStudios.sort((a, b) => {
+      // If both have ratings, sort by rating
+      if (a.gm_totalScore && b.gm_totalScore) {
+        return b.gm_totalScore - a.gm_totalScore;
+      }
+      // If only one has a rating, prioritize the one with a rating
+      if (a.gm_totalScore) return -1;
+      if (b.gm_totalScore) return 1;
+      // If neither has a rating, sort alphabetically
+      return a.title.localeCompare(b.title);
+    });
+    
+    // Return limited number of studios
+    return sortedStudios.slice(0, limit);
+  } catch (error) {
+    console.error(`Error getting studios for city ${city}:`, error);
+    return [];
+  }
 } 
