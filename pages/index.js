@@ -4,6 +4,7 @@ import FeaturedStudios from '../components/home/FeaturedStudios';
 import FeaturedCities from '../components/home/FeaturedCities';
 import ExploreCities from '../components/home/ExploreCities';
 import { getFeaturedStudios } from '../utils/studioUtils';
+import { generateSearchIndex } from '../utils/searchUtils';
 
 export default function Home({ featuredStudios }) {
   return (
@@ -19,6 +20,9 @@ export default function Home({ featuredStudios }) {
 }
 
 export async function getStaticProps() {
+  // Generate search index at build time
+  generateSearchIndex();
+  
   // Get the featured studios data
   const featuredStudios = getFeaturedStudios(4);
   

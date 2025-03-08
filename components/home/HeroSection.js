@@ -1,9 +1,38 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { FaSearch } from 'react-icons/fa';
+import { useSearch } from '../../contexts/SearchContext';
 
 export default function HeroSection() {
   const [locationSearch, setLocationSearch] = useState('');
   const [styleSearch, setStyleSearch] = useState('');
+  const { performSearch } = useSearch();
+  
+  // Debounce search to avoid excessive rendering
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      // Prioritize location search, but if empty use style search
+      const searchTerm = locationSearch || styleSearch;
+      performSearch(searchTerm);
+    }, 300); // 300ms debounce
+    
+    return () => clearTimeout(timer);
+  }, [locationSearch, styleSearch, performSearch]);
+
+  const handleLocationChange = (e) => {
+    setLocationSearch(e.target.value);
+    // Clear style search when location search is being used
+    if (e.target.value && styleSearch) {
+      setStyleSearch('');
+    }
+  };
+
+  const handleStyleChange = (e) => {
+    setStyleSearch(e.target.value);
+    // Clear location search when style search is being used
+    if (e.target.value && locationSearch) {
+      setLocationSearch('');
+    }
+  };
 
   return (
     <section className="mb-12 text-center">
@@ -18,7 +47,7 @@ export default function HeroSection() {
             placeholder="Search by location (e.g., Brooklyn)"
             className="w-full py-3 px-4 pr-10 border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary"
             value={locationSearch}
-            onChange={(e) => setLocationSearch(e.target.value)}
+            onChange={handleLocationChange}
           />
           <button className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400">
             <FaSearch />
@@ -30,7 +59,7 @@ export default function HeroSection() {
             placeholder="Search by style (e.g., Vinyasa)"
             className="w-full py-3 px-4 pr-10 border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary"
             value={styleSearch}
-            onChange={(e) => setStyleSearch(e.target.value)}
+            onChange={handleStyleChange}
           />
           <button className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400">
             <FaSearch />
