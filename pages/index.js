@@ -2,18 +2,21 @@ import Layout from '../components/Layout';
 import HeroSection from '../components/home/HeroSection';
 import FeaturedStudios from '../components/home/FeaturedStudios';
 import FeaturedCities from '../components/home/FeaturedCities';
-import ExploreCities from '../components/home/ExploreCities';
+import ExploreMoreCities from '../components/home/ExploreMoreCities';
 import { getFeaturedStudios } from '../utils/studioUtils';
 import { generateSearchIndex } from '../utils/searchUtils';
+import { useState } from 'react';
+import fs from 'fs';
+import path from 'path';
 
-export default function Home({ featuredStudios }) {
+export default function Home({ featuredStudios, cityData }) {
   return (
     <Layout>
       <div className="max-w-6xl mx-auto">
         <HeroSection />
         <FeaturedStudios studios={featuredStudios} />
         <FeaturedCities />
-        <ExploreCities />
+        <ExploreMoreCities cityData={cityData} />
       </div>
     </Layout>
   );
@@ -46,9 +49,32 @@ export async function getStaticProps() {
     return serializedStudio;
   });
 
+  // Read the JSON file
+  let cityData = {};
+  try {
+    const filePath = path.join(process.cwd(), 'data/cities/city_gym_counts.json');
+    const fileContents = fs.readFileSync(filePath, 'utf8');
+    cityData = JSON.parse(fileContents);
+  } catch (error) {
+    console.error('Error reading city data:', error);
+    // Provide empty object as fallback
+    cityData = {};
+  }
+  
+  // Sort cities by number of gyms (descending)
+  const sortedCityData = Object.entries(cityData)
+    .sort(([, countA], [, countB]) => countB - countA)
+    .reduce((acc, [city, count]) => {
+      acc[city] = count;
+      return acc;
+    }, {});
+
   return {
     props: {
       featuredStudios: serializedStudios,
+      cityData: sortedCityData,
     },
+    // Revalidate the data once per day (in seconds)
+    revalidate: 86400,
   };
 } 

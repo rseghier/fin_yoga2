@@ -7,6 +7,7 @@ export function SearchProvider({ children }) {
   const [searchResults, setSearchResults] = useState([]);
   const [searchIndex, setSearchIndex] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  const [locationSearchTerm, setLocationSearchTerm] = useState('');
 
   // Load search index on component mount
   useEffect(() => {
@@ -84,6 +85,8 @@ export function SearchProvider({ children }) {
     isLoading,
     performSearch,
     performStyleSearch,
+    locationSearchTerm,
+    setLocationSearchTerm
   };
 
   return <SearchContext.Provider value={value}>{children}</SearchContext.Provider>;

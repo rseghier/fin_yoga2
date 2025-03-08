@@ -3,36 +3,36 @@ import { FaSearch } from 'react-icons/fa';
 import { useSearch } from '../../contexts/SearchContext';
 
 export default function HeroSection() {
-  const [locationSearch, setLocationSearch] = useState('');
   const [styleSearch, setStyleSearch] = useState('');
-  const { performSearch, performStyleSearch } = useSearch();
+  const { performSearch, performStyleSearch, locationSearchTerm, setLocationSearchTerm } = useSearch();
   
-  // Debounce search to avoid excessive rendering
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      if (locationSearch) {
-        performSearch(locationSearch);
-      } else if (styleSearch) {
-        performStyleSearch(styleSearch);
-      }
-    }, 300); // 300ms debounce
-    
-    return () => clearTimeout(timer);
-  }, [locationSearch, styleSearch, performSearch, performStyleSearch]);
-
+  // Use locationSearchTerm from context instead of local state
   const handleLocationChange = (e) => {
-    setLocationSearch(e.target.value);
+    setLocationSearchTerm(e.target.value);
     // Clear style search when location search is being used
     if (e.target.value && styleSearch) {
       setStyleSearch('');
     }
   };
 
+  // Debounce search to avoid excessive rendering
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      if (locationSearchTerm) {
+        performSearch(locationSearchTerm);
+      } else if (styleSearch) {
+        performStyleSearch(styleSearch);
+      }
+    }, 300); // 300ms debounce
+    
+    return () => clearTimeout(timer);
+  }, [locationSearchTerm, styleSearch, performSearch, performStyleSearch]);
+
   const handleStyleChange = (e) => {
     setStyleSearch(e.target.value);
     // Clear location search when style search is being used
-    if (e.target.value && locationSearch) {
-      setLocationSearch('');
+    if (e.target.value && locationSearchTerm) {
+      setLocationSearchTerm('');
     }
   };
 
@@ -48,7 +48,7 @@ export default function HeroSection() {
             type="text"
             placeholder="Search by location (e.g., Brooklyn)"
             className="w-full py-3 px-4 pr-10 border rounded-lg focus:outline-none focus:ring-2 focus:ring-primary"
-            value={locationSearch}
+            value={locationSearchTerm}
             onChange={handleLocationChange}
           />
           <button className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400">
