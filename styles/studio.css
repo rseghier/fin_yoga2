@@ -1,0 +1,74 @@
+/* Studio page specific styles */
+
+.studio-content h1 {
+  @apply text-3xl font-bold mt-8 mb-4;
+}
+
+.studio-content h2 {
+  @apply text-2xl font-bold mt-6 mb-3;
+}
+
+.studio-content h3 {
+  @apply text-xl font-bold mt-4 mb-2;
+}
+
+.studio-content p {
+  @apply mb-4 leading-relaxed;
+}
+
+.studio-content ul {
+  @apply mb-4 pl-5 list-disc;
+}
+
+.studio-content li {
+  @apply ml-4 mb-2;
+}
+
+.studio-content a {
+  @apply text-primary hover:underline;
+}
+
+.studio-content img {
+  @apply my-6 w-full h-auto rounded-lg;
+}
+
+.studio-content blockquote {
+  @apply border-l-4 border-gray-300 pl-4 italic my-4;
+}
+
+/* Gallery grid */
+.image-gallery {
+  @apply grid grid-cols-1 sm:grid-cols-2 gap-4 my-8;
+}
+
+.image-gallery-item {
+  @apply relative aspect-[4/3] rounded-lg overflow-hidden;
+}
+
+/* Feature list styling */
+.feature-list {
+  @apply space-y-2 my-6;
+}
+
+.feature-item {
+  @apply flex items-start;
+}
+
+.feature-icon {
+  @apply mr-2 text-primary mt-1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .studio-content h1 {
+    @apply text-2xl;
+  }
+  
+  .studio-content h2 {
+    @apply text-xl;
+  }
+  
+  .studio-content h3 {
+    @apply text-lg;
+  }
+} 
