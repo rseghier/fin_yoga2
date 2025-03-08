@@ -1,6 +1,7 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { MDXRemote } from 'next-mdx-remote';
 import { serialize } from 'next-mdx-remote/serialize';
 import Layout from '../../components/Layout';
@@ -8,10 +9,14 @@ import TagsList from '../../components/TagsList';
 import StudioInfo from '../../components/StudioInfo';
 import ImageGallery from '../../components/ImageGallery';
 import MDXComponents from '../../components/MDXComponents';
+import SearchNavigation from '../../components/SearchNavigation';
 import { getAllStudioSlugs, getStudioData, extractGalleryImages } from '../../utils/studioUtils';
 import { FaArrowLeft } from 'react-icons/fa';
 
 export default function StudioPage({ studioData, mdxSource }) {
+  const router = useRouter();
+  const { slug } = router.query;
+  
   if (!studioData) {
     return (
       <Layout>
@@ -61,6 +66,9 @@ export default function StudioPage({ studioData, mdxSource }) {
 
         {/* Title */}
         <h1 className="text-4xl font-bold mb-6">{title}</h1>
+
+        {/* Search Navigation - will only show if coming from search results */}
+        <SearchNavigation currentSlug={slug} />
 
         {/* Tags */}
         <TagsList tags={tags} />

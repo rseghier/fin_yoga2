@@ -22,8 +22,8 @@ export default function FeaturedStudios({ studios = [] }) {
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {displayStudios.length > 0 ? (
-            displayStudios.map((studio, index) => (
-              <YogaStudioCard key={index} studio={studio} />
+            displayStudios.map((studio) => (
+              <YogaStudioCard key={studio.id || studio.slug || `studio-${studio.title}`} studio={studio} />
             ))
           ) : (
             <div className="col-span-full text-center py-8">

@@ -25,6 +25,29 @@ export function SearchProvider({ children }) {
 
     fetchSearchIndex();
   }, []);
+  
+  // Load saved search results from localStorage
+  useEffect(() => {
+    try {
+      const savedResults = localStorage.getItem('searchResults');
+      if (savedResults) {
+        setSearchResults(JSON.parse(savedResults));
+      }
+    } catch (error) {
+      console.error('Error loading saved search results:', error);
+    }
+  }, []);
+  
+  // Save search results to localStorage when they change
+  useEffect(() => {
+    try {
+      if (searchResults.length > 0) {
+        localStorage.setItem('searchResults', JSON.stringify(searchResults));
+      }
+    } catch (error) {
+      console.error('Error saving search results:', error);
+    }
+  }, [searchResults]);
 
   // Search function
   const performSearch = (term) => {
@@ -78,6 +101,12 @@ export function SearchProvider({ children }) {
     setSearchResults(results);
   };
 
+  // Clear search results
+  const clearSearchResults = () => {
+    setSearchResults([]);
+    localStorage.removeItem('searchResults');
+  };
+
   const value = {
     searchTerm,
     setSearchTerm,
@@ -86,7 +115,8 @@ export function SearchProvider({ children }) {
     performSearch,
     performStyleSearch,
     locationSearchTerm,
-    setLocationSearchTerm
+    setLocationSearchTerm,
+    clearSearchResults
   };
 
   return <SearchContext.Provider value={value}>{children}</SearchContext.Provider>;

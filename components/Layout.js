@@ -1,8 +1,20 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import { useState } from 'react';
 import { FaSearch, FaSun } from 'react-icons/fa';
+import SearchModal from './SearchModal';
 
 export default function Layout({ children, title = 'FindYoga - Find Your Perfect Yoga Studio' }) {
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
+  
+  const openSearch = () => {
+    setIsSearchOpen(true);
+  };
+  
+  const closeSearch = () => {
+    setIsSearchOpen(false);
+  };
+  
   return (
     <div className="min-h-screen flex flex-col">
       <Head>
@@ -22,7 +34,11 @@ export default function Layout({ children, title = 'FindYoga - Find Your Perfect
               <Link href="/about" className="hover:text-primary">
                 About
               </Link>
-              <button className="hover:text-primary">
+              <button 
+                className="hover:text-primary" 
+                onClick={openSearch}
+                aria-label="Search studios"
+              >
                 <FaSearch className="w-5 h-5" />
               </button>
               <button className="hover:text-primary">
@@ -43,6 +59,9 @@ export default function Layout({ children, title = 'FindYoga - Find Your Perfect
           <p>Powered by Next.js</p>
         </div>
       </footer>
+      
+      {/* Search Modal */}
+      <SearchModal isOpen={isSearchOpen} onClose={closeSearch} />
     </div>
   );
 } 

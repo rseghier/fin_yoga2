@@ -27,7 +27,7 @@ export async function getStaticProps() {
   generateSearchIndex();
   
   // Get the featured studios data
-  const featuredStudios = getFeaturedStudios(4);
+  const featuredStudios = getFeaturedStudios(6);
   
   // Ensure all data is serializable
   const serializedStudios = featuredStudios.map(studio => {

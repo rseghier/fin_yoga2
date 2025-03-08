@@ -6,6 +6,7 @@ export default function YogaStudioCard({ studio }) {
   const {
     title,
     slug,
+    id,
     address,
     city,
     state,
@@ -21,9 +22,12 @@ export default function YogaStudioCard({ studio }) {
     country
   ].filter(Boolean).join(', ');
 
+  // Use slug if available, otherwise use id
+  const studioUrl = `/studios/${slug || id}`;
+
   return (
     <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow">
-      <Link href={`/studios/${slug}`}>
+      <Link href={studioUrl}>
         <div className="p-4">
           <h3 className="text-lg font-semibold mb-1">{title}</h3>
           
