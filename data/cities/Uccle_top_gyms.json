@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 308,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.9,
+        "city": "Uccle",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Room  Fort Jaco",
+        "summary": "A well-regarded yoga studio located in Uccle, known for its excellent instructors and diverse class offerings.",
+        "url": "Uccle_Yoga_Room_Fort_Jaco"
+    },
+    {
+        "gm_reviews_count": 53,
+        "gm_totalScore": 5,
+        "gym_score": 4.6,
+        "city": "Uccle",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Côté Jardin",
+        "summary": "A welcoming yoga studio in Uccle, renowned for its personalized instruction and tranquil garden setting.",
+        "url": "Uccle_Yoga_Côté_Jardin"
+    },
+    {
+        "gm_reviews_count": 42,
+        "gm_totalScore": 5,
+        "gym_score": 4.5,
+        "city": "Uccle",
+        "state": "None",
+        "country": "None",
+        "title": "Hatha",
+        "summary": "A yoga studio in Uccle offering diverse classes and a nurturing environment led by an experienced instructor.",
+        "url": "Uccle_Hatha"
+    },
+    {
+        "gm_reviews_count": 34,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Uccle",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Bruxelles Yoga Graciosa",
+        "summary": "A warm and nurturing yoga studio located in Uccle, specializing in prenatal and postnatal classes.",
+        "url": "Uccle_Yoga_Bruxelles_Yoga_Graciosa"
+    },
+    {
+        "gm_reviews_count": 31,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Uccle",
+        "state": "None",
+        "country": "None",
+        "title": "Atelier Yoga",
+        "summary": "A yoga studio in Uccle offering personalized prenatal and postpartum classes led by a compassionate instructor.",
+        "url": "Uccle_Atelier_Yoga"
+    },
+    {
+        "gm_reviews_count": 14,
+        "gm_totalScore": 4.9,
+        "gym_score": 3.7,
+        "city": "Uccle",
+        "state": "None",
+        "country": "None",
+        "title": "State Of Yoga",
+        "summary": "The State of Yoga in Uccle provides a nurturing environment for yoga practice tailored to individual needs.",
+        "url": "Uccle_State_Of_Yoga"
+    }
+]

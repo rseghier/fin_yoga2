@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 35,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.2,
+        "city": "Ghent",
+        "state": "None",
+        "country": "None",
+        "title": "Yogaloft Gent",
+        "summary": "This studio in Ghent offers a warm atmosphere and excellent yoga classes.",
+        "url": "Ghent_Yogaloft_Gent"
+    },
+    {
+        "gm_reviews_count": 33,
+        "gm_totalScore": 4.8,
+        "gym_score": 4.2,
+        "city": "Ghent",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga On Call",
+        "summary": "A beautiful yoga studio located in Ghent, offering diverse classes and passionate teachers.",
+        "url": "Ghent_Yoga_On_Call"
+    },
+    {
+        "gm_reviews_count": 24,
+        "gm_totalScore": 4.8,
+        "gym_score": 4.0,
+        "city": "Ghent",
+        "state": "None",
+        "country": "None",
+        "title": "Household Practice Yoga Studio",
+        "summary": "A charming yoga studio located in Ghent, offering a cozy atmosphere and diverse classes.",
+        "url": "Ghent_Household_Practice_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 19,
+        "gm_totalScore": 4.9,
+        "gym_score": 3.9,
+        "city": "Ghent",
+        "state": "None",
+        "country": "None",
+        "title": "Minty Oak Yoga",
+        "summary": "Minty Oak Yoga in Ghent offers a nurturing environment for pregnancy yoga and retreats.",
+        "url": "Ghent_Minty_Oak_Yoga"
+    },
+    {
+        "gm_reviews_count": 23,
+        "gm_totalScore": 4.6,
+        "gym_score": 3.8,
+        "city": "Ghent",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Studio Groene Vallei  Pilates Reformer Gent",
+        "summary": "A yoga and pilates studio located in Ghent.",
+        "url": "Ghent_Yoga_Studio_Groene_Vallei_Pilates_Reformer_Gent"
+    },
+    {
+        "gm_reviews_count": 6,
+        "gm_totalScore": 5,
+        "gym_score": 2.8,
+        "city": "Ghent",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga With Issy",
+        "summary": "Yoga with Issy is a welcoming yoga studio located in Ghent.",
+        "url": "Ghent_Yoga_With_Issy"
+    }
+]

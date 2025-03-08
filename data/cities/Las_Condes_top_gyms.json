@@ -1,0 +1,101 @@
+[
+    {
+        "gm_reviews_count": 84,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Elevarte Circo Yoga",
+        "summary": "Elevarte Circo Yoga is a yoga studio located in Las Condes, Santiago.",
+        "url": "Las_Condes_Elevarte_Circo_Yoga"
+    },
+    {
+        "gm_reviews_count": 47,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.3,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Kula Yoga",
+        "summary": "Dhanu Yoga is a highly recommended studio located in Providencia, Santiago.",
+        "url": "Las_Condes_Kula_Yoga"
+    },
+    {
+        "gm_reviews_count": 24,
+        "gm_totalScore": 5,
+        "gym_score": 4.2,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Bikram Yoga Las Condes",
+        "summary": "A renowned yoga studio in Las Condes, Santiago, known for its exceptional classes and instructors.",
+        "url": "Santiago_Metropolitan_Region_Bikram_Yoga_Las_Condes"
+    },
+    {
+        "gm_reviews_count": 21,
+        "gm_totalScore": 5,
+        "gym_score": 4.1,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Yoga Sukha",
+        "summary": "Yoga Sukha is located in Las Condes, Santiago.",
+        "url": "Las_Condes_Yoga_Sukha"
+    },
+    {
+        "gm_reviews_count": 21,
+        "gm_totalScore": 5,
+        "gym_score": 4.1,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "La Sala Yoga",
+        "summary": "This yoga studio in Las Condes, Santiago, offers professional and caring instruction in a beautiful and welcoming environment.",
+        "url": "Las_Condes_La_Sala_Yoga"
+    },
+    {
+        "gm_reviews_count": 16,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Yoga Kanda",
+        "summary": "Yoga Kanda in Las Condes is a nurturing space for comprehensive yoga practice.",
+        "url": "Las_Condes_Yoga_Kanda"
+    },
+    {
+        "gm_reviews_count": 10,
+        "gm_totalScore": 5,
+        "gym_score": 3.4,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Ayana Yoga",
+        "summary": "A dedicated yoga studio in Las Condes, Santiago, offering personalized classes with a professional instructor.",
+        "url": "Las_Condes_Ayana_Yoga"
+    },
+    {
+        "gm_reviews_count": 8,
+        "gm_totalScore": 5,
+        "gym_score": 3.1,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Fluir Yoga",
+        "summary": "A fantastic yoga studio located in Las Condes offering excellent classes.",
+        "url": "Las_Condes_Fluir_Yoga"
+    },
+    {
+        "gm_reviews_count": 7,
+        "gm_totalScore": 5,
+        "gym_score": 3.0,
+        "city": "Las_Condes",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Byc Yoga Quinchamali",
+        "summary": "BYC YOGA, Las Condes (Santiago Metropolitan Region)",
+        "url": "Las_Condes_Byc_Yoga_Quinchamali"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 98,
+        "gm_totalScore": 5,
+        "gym_score": 4.8,
+        "city": "Santo_André",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Artha Yoga Studio",
+        "summary": "A yoga studio in Santo André that offers a warm atmosphere and personal attention from an excellent instructor.",
+        "url": "Santo_André_Artha_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 35,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Santo_André",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Jagat Yoga E Ayurveda",
+        "summary": "Jagat Yoga e Ayurveda in Santo André offers personalized yoga instruction with an emphasis on health and wellness.",
+        "url": "Santo_André_Jagat_Yoga_E_Ayurveda"
+    },
+    {
+        "gm_reviews_count": 30,
+        "gm_totalScore": 5,
+        "gym_score": 4.3,
+        "city": "Santo_André",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Soma Espaço Yoga",
+        "summary": "Soma Espaço Yoga offers transformative classes in Santo André, São Paulo, enhancing well-being through attentive instruction.",
+        "url": "Santo_André_Soma_Espaço_Yoga"
+    },
+    {
+        "gm_reviews_count": 28,
+        "gm_totalScore": 5,
+        "gym_score": 4.3,
+        "city": "Santo_André",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Gaia Yoga",
+        "summary": "Gaia Yoga in Santo André is known for its attentive instructors and supportive environment.",
+        "url": "Santo_André_Gaia_Yoga"
+    },
+    {
+        "gm_reviews_count": 31,
+        "gm_totalScore": 4.8,
+        "gym_score": 4.2,
+        "city": "Santo_André",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Espaço Prithvi Yoga Abc",
+        "summary": "An inviting yoga studio in Santo André, offering a diverse range of classes and a supportive community.",
+        "url": "Santo_André_Espaço_Prithvi_Yoga_Abc"
+    },
+    {
+        "gm_reviews_count": 14,
+        "gm_totalScore": 5,
+        "gym_score": 3.7,
+        "city": "Santo_André",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Espaço Hollus De Yoga E Pilates De Solo",
+        "summary": "A welcoming yoga and pilates studio located in Santo André, São Paulo.",
+        "url": "Santo_André_Espaço_Hollus_De_Yoga_E_Pilates_De_Solo"
+    }
+]

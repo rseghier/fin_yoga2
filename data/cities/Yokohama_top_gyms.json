@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 29,
+        "gm_totalScore": 5,
+        "gym_score": 4.3,
+        "city": "Yokohama",
+        "state": "Kanagawa",
+        "country": "None",
+        "title": "Migiwa Yoga Space",
+        "summary": "A welcoming yoga studio located in Yokohama, teaching with a focus on personal growth and community.",
+        "url": "Yokohama_Migiwa_Yoga_Space"
+    },
+    {
+        "gm_reviews_count": 19,
+        "gm_totalScore": 4.9,
+        "gym_score": 3.9,
+        "city": "Yokohama",
+        "state": "Kanagawa",
+        "country": "None",
+        "title": "ヨガスポット Yoga Spot",
+        "summary": "A transformative yoga studio in Yokohama offering deep connections through unique teaching methods.",
+        "url": "Yokohama_ヨガスポット_Yoga_Spot"
+    },
+    {
+        "gm_reviews_count": 16,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "Yokohama",
+        "state": "Kanagawa",
+        "country": "None",
+        "title": "Tim Yoga",
+        "summary": "A delightful yoga studio in Yokohama that offers a welcoming environment for all levels.",
+        "url": "Yokohama_Tim_Yoga"
+    },
+    {
+        "gm_reviews_count": 15,
+        "gm_totalScore": 4.9,
+        "gym_score": 3.7,
+        "city": "Yokohama",
+        "state": "Kanagawa",
+        "country": "None",
+        "title": "Yoga Studio 8point",
+        "summary": "A wellness studio located in Yokohama, Kanagawa, offering personalized massage and Pilates services.",
+        "url": "Yokohama_Yoga_Studio_8point"
+    },
+    {
+        "gm_reviews_count": 11,
+        "gm_totalScore": 5,
+        "gym_score": 3.5,
+        "city": "Yokohama",
+        "state": "Kanagawa",
+        "country": "None",
+        "title": "Rasa Lila Yoga",
+        "summary": "A welcoming yoga studio in Yokohama Kanagawa that offers tailored instruction and flexible attendance options.",
+        "url": "Yokohama_Rasa_Lila_Yoga"
+    },
+    {
+        "gm_reviews_count": 6,
+        "gm_totalScore": 4.8,
+        "gym_score": 2.7,
+        "city": "Yokohama",
+        "state": "Kanagawa",
+        "country": "None",
+        "title": "Yoga Ojasuaobadaisutajio",
+        "summary": "Yoga Ojasuaobadaisutajio is a yoga studio located in Yokohama, Kanagawa, known for its welcoming atmosphere and attentive instructors.",
+        "url": "Yokohama_Yoga_Ojasuaobadaisutajio"
+    }
+]

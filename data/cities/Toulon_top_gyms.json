@@ -1,0 +1,79 @@
+[
+    {
+        "gm_reviews_count": 53,
+        "gm_totalScore": 5,
+        "gym_score": 4.6,
+        "city": "Toulon",
+        "state": "None",
+        "country": "None",
+        "title": "Espace Yoga  Danse Méditerranée  Yoga Toulon",
+        "summary": "A wonderful yoga and wellness studio located in Toulon.",
+        "url": "Espace_Yoga_Danse_Méditerranée_Yoga_Toulon"
+    },
+    {
+        "gm_reviews_count": 35,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.3,
+        "city": "Toulon",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Toulon  Amélie Antouard",
+        "summary": "A welcoming yoga studio in Toulon offering personalized instruction and a supportive atmosphere.",
+        "url": "Yoga_Toulon_Amélie_Antouard"
+    },
+    {
+        "gm_reviews_count": 29,
+        "gm_totalScore": 5,
+        "gym_score": 4.3,
+        "city": "Toulon",
+        "state": "None",
+        "country": "None",
+        "title": "Sukha Sadhana Yoga",
+        "summary": "This yoga studio in Toulon offers exceptional classes led by attentive and compassionate instructors.",
+        "url": "Toulon_Sukha_Sadhana_Yoga"
+    },
+    {
+        "gm_reviews_count": 16,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "Toulon",
+        "state": "None",
+        "country": "None",
+        "title": "Aseemit Yoga  Toulon",
+        "summary": "Aseemit Yoga in Toulon offers transformative yoga classes led by a dedicated instructor.",
+        "url": "Aseemit_Yoga_Toulon"
+    },
+    {
+        "gm_reviews_count": 17,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "Toulon",
+        "state": "None",
+        "country": "None",
+        "title": "Shankha Yoga 83",
+        "summary": "A welcoming yoga studio in Toulon offering exceptional classes and a supportive environment.",
+        "url": "Toulon_Shankha_Yoga_83"
+    },
+    {
+        "gm_reviews_count": 8,
+        "gm_totalScore": 5,
+        "gym_score": 3.1,
+        "city": "Toulon",
+        "state": "None",
+        "country": "None",
+        "title": "Françoislouis Cervera Yoga Toulon Ollioules",
+        "summary": "François-Louis Cervera Yoga is located in Toulon.",
+        "url": "Françoislouis_Cervera_Yoga_Toulon_Ollioules"
+    },
+    {
+        "gm_reviews_count": 6,
+        "gm_totalScore": 5,
+        "gym_score": 2.8,
+        "city": "Toulon",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Iyengar Toulon",
+        "summary": "A welcoming yoga studio offering personalized instruction in Toulon.",
+        "url": "Yoga_Iyengar_Toulon"
+    }
+]

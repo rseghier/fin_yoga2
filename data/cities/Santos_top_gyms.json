@@ -1,0 +1,79 @@
+[
+    {
+        "gm_reviews_count": 71,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.6,
+        "city": "Santos",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Shanti Shala  Yoga",
+        "summary": "Shanti Shala - Yoga in Santos, São Paulo is known for its revitalizing classes and dedicated instructors, yet struggles with operational responsiveness.",
+        "url": "Santos_Shanti_Shala_Yoga"
+    },
+    {
+        "gm_reviews_count": 34,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Santos",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Santo Yoga",
+        "summary": "The studio is a serene yoga destination located in Santos, São Paulo.",
+        "url": "Santos_Santo_Yoga"
+    },
+    {
+        "gm_reviews_count": 36,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Santos",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Espaço Lotus",
+        "summary": "Espaço Lotus is a yoga studio located in Santos, State of São Paulo.",
+        "url": "Santos_Espaço_Lotus"
+    },
+    {
+        "gm_reviews_count": 18,
+        "gm_totalScore": 5,
+        "gym_score": 4.0,
+        "city": "Santos",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Yoga Em Santos  Akasha Yoga",
+        "summary": "Akasha Yoga in Santos provides a tranquil atmosphere for yoga and wellness.",
+        "url": "State_of_São_Paulo_Yoga_Em_Santos_Akasha_Yoga"
+    },
+    {
+        "gm_reviews_count": 20,
+        "gm_totalScore": 5,
+        "gym_score": 4.0,
+        "city": "Santos",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Avaha Yoga E Pilates",
+        "summary": "AVAHA Yoga e Pilates in Santos is a nurturing space that combines yoga practice with deep philosophical teachings.",
+        "url": "Santos_Avaha_Yoga_E_Pilates"
+    },
+    {
+        "gm_reviews_count": 17,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "Santos",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "3c Equilibrium Pilates And Yoga",
+        "summary": "A yoga studio in Santos, São Paulo, known for its excellent location and exceptional service.",
+        "url": "Santos_3c_Equilibrium_Pilates_And_Yoga"
+    },
+    {
+        "gm_reviews_count": 17,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "Santos",
+        "state": "State of São Paulo",
+        "country": "None",
+        "title": "Namastê Yoga",
+        "summary": "Namastê Yoga in Santos, São Paulo is a welcoming yoga studio offering a variety of classes and a strong sense of community.",
+        "url": "Santos_Namastê_Yoga"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 94,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Al_Khobar",
+        "state": "None",
+        "country": "None",
+        "title": "Mantra Studio",
+        "summary": "A leading yoga studio in Al Khobar known for its positive atmosphere and skilled instructors.",
+        "url": "Al_Khobar_Mantra_Studio"
+    },
+    {
+        "gm_reviews_count": 59,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.6,
+        "city": "Al_Khobar",
+        "state": "None",
+        "country": "None",
+        "title": "Sparkle Fitness",
+        "summary": "A favorite fitness studio located in Al Khobar, offering a welcoming atmosphere and top-notch classes.",
+        "url": "Al_Khobar_Sparkle_Fitness"
+    },
+    {
+        "gm_reviews_count": 42,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.4,
+        "city": "Al_Khobar",
+        "state": "None",
+        "country": "None",
+        "title": "The Nada Yoga",
+        "summary": "A highly recommended yoga studio in Al Khobar known for its serene atmosphere and expert instructors.",
+        "url": "Al_Khobar_The_Nada_Yoga"
+    },
+    {
+        "gm_reviews_count": 43,
+        "gm_totalScore": 4.6,
+        "gym_score": 4.2,
+        "city": "Al_Khobar",
+        "state": "None",
+        "country": "None",
+        "title": "مركز أصالة الرياضي للسيدات Asala Ladies Fitness Center",
+        "summary": "Yoga House is located in Al Qatif, offering a serene yoga experience.",
+        "url": "Al_Khobar_مركز_أصالة_الرياضي_للسيدات_Asala_Ladies_Fitness_Center"
+    },
+    {
+        "gm_reviews_count": 64,
+        "gm_totalScore": 4.5,
+        "gym_score": 4.2,
+        "city": "Al_Khobar",
+        "state": "None",
+        "country": "None",
+        "title": "Yas Studio ياس استديو",
+        "summary": "A renowned yoga studio located in Al Khobar, offering a variety of classes with a focus on comfort and cleanliness.",
+        "url": "Al_Khobar_Yas_Studio_ياس_استديو"
+    },
+    {
+        "gm_reviews_count": 6,
+        "gm_totalScore": 5,
+        "gym_score": 2.8,
+        "city": "Al_Khobar",
+        "state": "None",
+        "country": "None",
+        "title": "Reflect Boutique Yoga Studio",
+        "summary": "A welcoming yoga studio located in Al Khobar.",
+        "url": "Al_Khobar_Reflect_Boutique_Yoga_Studio"
+    }
+]

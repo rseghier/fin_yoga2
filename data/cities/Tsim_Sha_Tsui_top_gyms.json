@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 88,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Tsim_Sha_Tsui",
+        "state": "None",
+        "country": "None",
+        "title": "Hikari Yoga",
+        "summary": "The yoga studio offers specialized prenatal and postnatal classes in Tsim Sha Tsui.",
+        "url": "Tsim_Sha_Tsui_Hikari_Yoga"
+    },
+    {
+        "gm_reviews_count": 80,
+        "gm_totalScore": 4.8,
+        "gym_score": 4.6,
+        "city": "Tsim_Sha_Tsui",
+        "state": "None",
+        "country": "None",
+        "title": "B Yoga 悅瑜伽  Tsim Sha Tsui 尖沙咀",
+        "summary": "This yoga studio offers a welcoming environment in Tsim Sha Tsui.",
+        "url": "B_Yoga_悅瑜伽_Tsim_Sha_Tsui_尖沙咀"
+    },
+    {
+        "gm_reviews_count": 63,
+        "gm_totalScore": 3.9,
+        "gym_score": 3.7,
+        "city": "Tsim_Sha_Tsui",
+        "state": "None",
+        "country": "None",
+        "title": "Pure Yoga Peninsula Office Tower",
+        "summary": "A yoga studio located in Tsim Sha Tsui with a beautiful harbour view.",
+        "url": "Tsim_Sha_Tsui_Pure_Yoga_Peninsula_Office_Tower"
+    },
+    {
+        "gm_reviews_count": 15,
+        "gm_totalScore": 4.3,
+        "gym_score": 3.3,
+        "city": "Tsim_Sha_Tsui",
+        "state": "None",
+        "country": "None",
+        "title": "Life Management Yoga Centertsim Sha Tsui",
+        "summary": "The studio in Tsim Sha Tsui offers an inclusive and welcoming environment for yoga practitioners.",
+        "url": "Life_Management_Yoga_Centertsim_Sha_Tsui"
+    },
+    {
+        "gm_reviews_count": 10,
+        "gm_totalScore": 4.8,
+        "gym_score": 3.2,
+        "city": "Tsim_Sha_Tsui",
+        "state": "None",
+        "country": "None",
+        "title": "Ikigai Yoga  Meditation tst",
+        "summary": "Ikigai Yoga & Meditation is a professional yoga studio located in Tsim Sha Tsui.",
+        "url": "Tsim_Sha_Tsui_Ikigai_Yoga_Meditation_tst"
+    },
+    {
+        "gm_reviews_count": 7,
+        "gm_totalScore": 5,
+        "gym_score": 3.0,
+        "city": "Tsim_Sha_Tsui",
+        "state": "None",
+        "country": "None",
+        "title": "Ming Yoga Studio",
+        "summary": "Ming Yoga Studio, located in Tsim Sha Tsui, offers a welcoming atmosphere for yoga practitioners.",
+        "url": "Tsim_Sha_Tsui_Ming_Yoga_Studio"
+    }
+]

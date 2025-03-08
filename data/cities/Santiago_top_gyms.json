@@ -1,0 +1,90 @@
+[
+    {
+        "gm_reviews_count": 86,
+        "gm_totalScore": 4.6,
+        "gym_score": 4.4,
+        "city": "Santiago",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Yoga School Yuukti",
+        "summary": "Yuukti Yoga is a welcoming yoga studio located in Santiago, offering a variety of classes for all levels.",
+        "url": "Santiago_Yoga_School_Yuukti"
+    },
+    {
+        "gm_reviews_count": 67,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.4,
+        "city": "Santiago",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Savittar Yoga",
+        "summary": "An excellent yoga studio located in Santiago, offering a supportive environment for practice.",
+        "url": "Santiago_Savittar_Yoga"
+    },
+    {
+        "gm_reviews_count": 31,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.3,
+        "city": "Santiago",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Centro De Yoga Ananda Marga",
+        "summary": "Ananda Marga is a yoga studio located in Santiago, offering a supportive and transformative community experience.",
+        "url": "Santiago_Centro_De_Yoga_Ananda_Marga"
+    },
+    {
+        "gm_reviews_count": 38,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.2,
+        "city": "Santiago",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Idh Yoga",
+        "summary": "A welcoming yoga studio in Santiago, Santiago Metropolitan Region.",
+        "url": "Santiago_Idh_Yoga"
+    },
+    {
+        "gm_reviews_count": 16,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "Santiago",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Lunares Yoga",
+        "summary": "Lunares Yoga is a cozy and welcoming yoga studio located in Santiago.",
+        "url": "Santiago_Lunares_Yoga"
+    },
+    {
+        "gm_reviews_count": 15,
+        "gm_totalScore": 5,
+        "gym_score": 3.8,
+        "city": "Santiago",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Escuela Experimental De Voz Y Yoga",
+        "summary": "Escuela Experimental de Voz y Yoga in Santiago offers exceptional yoga classes and vocal training.",
+        "url": "Santiago_Escuela_Experimental_De_Voz_Y_Yoga"
+    },
+    {
+        "gm_reviews_count": 6,
+        "gm_totalScore": 5,
+        "gym_score": 2.8,
+        "city": "Santiago",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Idh Yoga Vergara",
+        "summary": "A beautiful yoga studio in Santiago offering a warm atmosphere and experienced instructors.",
+        "url": "Santiago_Idh_Yoga_Vergara"
+    },
+    {
+        "gm_reviews_count": 5,
+        "gm_totalScore": 5,
+        "gym_score": 2.5,
+        "city": "Santiago",
+        "state": "Santiago Metropolitan Region",
+        "country": "None",
+        "title": "Yoga Tantien",
+        "summary": "A beloved yoga studio located in Santiago, known for its peaceful environment.",
+        "url": "Santiago_Yoga_Tantien"
+    }
+]

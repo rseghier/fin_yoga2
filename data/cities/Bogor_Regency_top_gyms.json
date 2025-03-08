@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 48,
+        "gm_totalScore": 5,
+        "gym_score": 4.6,
+        "city": "Bogor_Regency",
+        "state": "West Java",
+        "country": "None",
+        "title": "Ahimsa Yoga Studio",
+        "summary": "Ahimsa Yoga Studio is a cozy and friendly yoga studio located in Bogor Regency.",
+        "url": "Bogor_Regency_Ahimsa_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 15,
+        "gm_totalScore": 4.9,
+        "gym_score": 3.7,
+        "city": "Bogor_Regency",
+        "state": "West Java",
+        "country": "None",
+        "title": "Griya Yoga Samiya",
+        "summary": "A yoga studio in Bogor Regency known for its classic hatha yoga.",
+        "url": "Bogor_Regency_Griya_Yoga_Samiya"
+    },
+    {
+        "gm_reviews_count": 10,
+        "gm_totalScore": 5,
+        "gym_score": 3.4,
+        "city": "Bogor_Regency",
+        "state": "West Java",
+        "country": "None",
+        "title": "Braja Yoga Studio",
+        "summary": "Braja Yoga Studio is a welcoming yoga space located in Bogor Regency.",
+        "url": "Bogor_Regency_Braja_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 10,
+        "gm_totalScore": 4.9,
+        "gym_score": 3.3,
+        "city": "Bogor_Regency",
+        "state": "West Java",
+        "country": "None",
+        "title": "Barindra Yoga Class",
+        "summary": "A holistic wellness studio offering yoga and resistance training in Bogor Regency.",
+        "url": "Bogor_Regency_Barindra_Yoga_Class"
+    },
+    {
+        "gm_reviews_count": 7,
+        "gm_totalScore": 5,
+        "gym_score": 3.0,
+        "city": "Bogor_Regency",
+        "state": "West Java",
+        "country": "None",
+        "title": "Svarasa Cibubur Yoga Studio",
+        "summary": "Svarasa Cibubur Yoga Studio is located in Bogor Regency.",
+        "url": "Bogor_Regency_Svarasa_Cibubur_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 7,
+        "gm_totalScore": 4.9,
+        "gym_score": 2.9,
+        "city": "Bogor_Regency",
+        "state": "West Java",
+        "country": "None",
+        "title": "Heppy Yoga Studio",
+        "summary": "Heppy Yoga Studio is located in Bogor Regency.",
+        "url": "Bogor_Regency_Heppy_Yoga_Studio"
+    }
+]

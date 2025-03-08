@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 167,
+        "gm_totalScore": 5,
+        "gym_score": 4.9,
+        "city": "Whitby",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Ojassv Hatha Yoga",
+        "summary": "Ojassv Hatha Yoga is a transformative yoga studio located in Whitby, Ontario.",
+        "url": "Whitby_Ojassv_Hatha_Yoga"
+    },
+    {
+        "gm_reviews_count": 162,
+        "gm_totalScore": 5,
+        "gym_score": 4.9,
+        "city": "Whitby",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Bohemian Bliss Yoga",
+        "summary": "Bohemian Bliss Yoga is a beautiful and welcoming yoga studio located in Whitby, Ontario.",
+        "url": "Whitby_Bohemian_Bliss_Yoga"
+    },
+    {
+        "gm_reviews_count": 101,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Whitby",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Oxygen Yoga  Fitness South Whitby",
+        "summary": "Oxygen Yoga & Fitness is a welcoming studio located in South Whitby, Ontario.",
+        "url": "Ontario_Oxygen_Yoga_Fitness_South_Whitby"
+    },
+    {
+        "gm_reviews_count": 48,
+        "gm_totalScore": 4.8,
+        "gym_score": 4.4,
+        "city": "Whitby",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Modo Yoga Brooklin",
+        "summary": "Modo Yoga Brooklin is a welcoming yoga studio located in Whitby, Ontario.",
+        "url": "Whitby_Modo_Yoga_Brooklin"
+    },
+    {
+        "gm_reviews_count": 33,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.3,
+        "city": "Whitby",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Veda Yoga And Healing Studio",
+        "summary": "Yoga by Shiva is a professional yoga studio located in North York.",
+        "url": "Whitby_Veda_Yoga_And_Healing_Studio"
+    },
+    {
+        "gm_reviews_count": 14,
+        "gm_totalScore": 5,
+        "gym_score": 3.7,
+        "city": "Whitby",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Yoga Now Brooklin",
+        "summary": "A welcoming yoga studio located in Whitby, Ontario.",
+        "url": "Whitby_Yoga_Now_Brooklin"
+    }
+]

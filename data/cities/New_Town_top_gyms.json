@@ -1,0 +1,112 @@
+[
+    {
+        "gm_reviews_count": 56,
+        "gm_totalScore": 5,
+        "gym_score": 4.6,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Dalibor Štědronský  Jóga",
+        "summary": "A yoga studio in New Town known for its excellent instructor and online classes.",
+        "url": "New_Town_Dalibor_Štědronský_Jóga"
+    },
+    {
+        "gm_reviews_count": 340,
+        "gm_totalScore": 4.4,
+        "gym_score": 4.4,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Pets Yoga Prague",
+        "summary": "Pets Yoga Prague offers a delightful yoga experience in Prague, blending calming stretches with playful interactions with adorable puppies.",
+        "url": "New_Town_Pets_Yoga_Prague"
+    },
+    {
+        "gm_reviews_count": 33,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.1,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Iyengar Yoga Institute In Prague",
+        "summary": "A top Iyengar Yoga studio located in the center of Prague.",
+        "url": "New_Town_Iyengar_Yoga_Institute_In_Prague"
+    },
+    {
+        "gm_reviews_count": 21,
+        "gm_totalScore": 5,
+        "gym_score": 4.1,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Mystery Yoga",
+        "summary": "A charming yoga studio located in New Town, offering a unique and serene experience.",
+        "url": "New_Town_Mystery_Yoga"
+    },
+    {
+        "gm_reviews_count": 16,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Zuzasana Jóga",
+        "summary": "Zuzasana JÓGA is located in New Town.",
+        "url": "New_Town_Zuzasana_Jóga"
+    },
+    {
+        "gm_reviews_count": 15,
+        "gm_totalScore": 5,
+        "gym_score": 3.8,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Kundalini Yoga Center",
+        "summary": "Kundalini Yoga Center in New Town is praised for its quality instruction and welcoming atmosphere.",
+        "url": "New_Town_Kundalini_Yoga_Center"
+    },
+    {
+        "gm_reviews_count": 13,
+        "gm_totalScore": 5,
+        "gym_score": 3.7,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Shala Prague",
+        "summary": "A great place for Ashtanga yoga located in New Town, Prague.",
+        "url": "New_Town_Shala_Prague"
+    },
+    {
+        "gm_reviews_count": 10,
+        "gm_totalScore": 4.2,
+        "gym_score": 2.8,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Federation Of Europe",
+        "summary": "Yoga Federation of Europe in New Town offers a comprehensive and holistic approach to yoga education.",
+        "url": "New_Town_Yoga_Federation_Of_Europe"
+    },
+    {
+        "gm_reviews_count": 6,
+        "gm_totalScore": 5,
+        "gym_score": 2.8,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Studio Existence",
+        "summary": "Studio Existence is a cozy yoga studio located in New Town.",
+        "url": "New_Town_Studio_Existence"
+    },
+    {
+        "gm_reviews_count": 5,
+        "gm_totalScore": 5,
+        "gym_score": 2.5,
+        "city": "New_Town",
+        "state": "None",
+        "country": "None",
+        "title": "Klub Fitness Gymnastics Yoga",
+        "summary": "A welcoming yoga studio in New Town providing exceptional instruction.",
+        "url": "New_Town_Klub_Fitness_Gymnastics_Yoga"
+    }
+]

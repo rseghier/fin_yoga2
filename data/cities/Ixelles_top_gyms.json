@@ -1,0 +1,79 @@
+[
+    {
+        "gm_reviews_count": 153,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.8,
+        "city": "Ixelles",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Sun",
+        "summary": "Yoga Sun is a cozy yoga studio located in Ixelles, Brussels.",
+        "url": "Ixelles_Yoga_Sun"
+    },
+    {
+        "gm_reviews_count": 78,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Ixelles",
+        "state": "None",
+        "country": "None",
+        "title": "The House Of Yoga",
+        "summary": "The House of Yoga is a cozy yoga studio located in Ixelles, Brussels.",
+        "url": "Ixelles_The_House_Of_Yoga"
+    },
+    {
+        "gm_reviews_count": 35,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Ixelles",
+        "state": "None",
+        "country": "None",
+        "title": "Little Bali",
+        "summary": "Little Bali is a calming yoga studio located in Ixelles.",
+        "url": "Ixelles_Little_Bali"
+    },
+    {
+        "gm_reviews_count": 32,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Ixelles",
+        "state": "None",
+        "country": "None",
+        "title": "Soham Hatha Yoga Iyengar Autres Activités Santé En Conscience",
+        "summary": "An excellent yoga studio in Ixelles, focusing on Iyengar yoga under the expert guidance of Viviane.",
+        "url": "Ixelles_Soham_Hatha_Yoga_Iyengar_Autres_Activités_Santé_En_Conscience"
+    },
+    {
+        "gm_reviews_count": 28,
+        "gm_totalScore": 5,
+        "gym_score": 4.3,
+        "city": "Ixelles",
+        "state": "None",
+        "country": "None",
+        "title": "Racines Tactiles  Yoga",
+        "summary": "Racines Tactiles - Yoga in Ixelles offers personalized and attentive yoga classes led by an exceptional instructor.",
+        "url": "Ixelles_Racines_Tactiles_Yoga"
+    },
+    {
+        "gm_reviews_count": 24,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.1,
+        "city": "Ixelles",
+        "state": "None",
+        "country": "None",
+        "title": "Iyengar Yoga Studio",
+        "summary": "Iyengar Yoga Studio in Ixelles is a welcoming space for yoga enthusiasts, especially beginners.",
+        "url": "Ixelles_Iyengar_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 54,
+        "gm_totalScore": 4.4,
+        "gym_score": 4.1,
+        "city": "Ixelles",
+        "state": "None",
+        "country": "None",
+        "title": "Iyengar Yoga Center Of Brussels",
+        "summary": "Iyengar Yoga Center of Brussels in Ixelles is an excellent studio for advanced yogis seeking professional development.",
+        "url": "Ixelles_Iyengar_Yoga_Center_Of_Brussels"
+    }
+]

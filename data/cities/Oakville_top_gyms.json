@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 131,
+        "gm_totalScore": 5,
+        "gym_score": 4.9,
+        "city": "Oakville",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Goji Yoga  Wellness",
+        "summary": "Goji Yoga Studio is a welcoming yoga and Pilates studio located in Oakville, Ontario.",
+        "url": "Oakville_Goji_Yoga_Wellness"
+    },
+    {
+        "gm_reviews_count": 106,
+        "gm_totalScore": 5,
+        "gym_score": 4.8,
+        "city": "Oakville",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Hot Yoga  Pilates",
+        "summary": "A vibrant Hot Yoga & Pilates studio in Oakville known for its fantastic instructors and supportive community.",
+        "url": "Oakville_Hot_Yoga_Pilates"
+    },
+    {
+        "gm_reviews_count": 98,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Oakville",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Oxygen Yoga And Fitness Oakville Joshua Creek",
+        "summary": "Oxygen Yoga & Fitness is located in Oakville, offering an exceptional variety of yoga and fitness classes.",
+        "url": "Ontario_Oxygen_Yoga_And_Fitness_Oakville_Joshua_Creek"
+    },
+    {
+        "gm_reviews_count": 113,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Oakville",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Inye Yoga",
+        "summary": "Inye Yoga is a welcoming and serene yoga studio located in Oakville, Ontario.",
+        "url": "Oakville_Inye_Yoga"
+    },
+    {
+        "gm_reviews_count": 105,
+        "gm_totalScore": 4.8,
+        "gym_score": 4.6,
+        "city": "Oakville",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Power Yoga Canada  Oakville",
+        "summary": "Power Yoga Canada is located in Oakville, Ontario.",
+        "url": "Ontario_Power_Yoga_Canada_Oakville"
+    },
+    {
+        "gm_reviews_count": 83,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.5,
+        "city": "Oakville",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Igita Hot Yoga Studios",
+        "summary": "iGita is a beautiful yoga studio located in Oakville, Ontario.",
+        "url": "Oakville_Igita_Hot_Yoga_Studios"
+    }
+]

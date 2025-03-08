@@ -1,0 +1,90 @@
+[
+    {
+        "gm_reviews_count": 144,
+        "gm_totalScore": 5,
+        "gym_score": 4.9,
+        "city": "Richmond",
+        "state": "British Columbia",
+        "country": "None",
+        "title": "Hariyall Yoga Institute",
+        "summary": "Hariyall Yoga Institute offers specialized prenatal and postnatal yoga classes in Richmond, British Columbia.",
+        "url": "Richmond_Hariyall_Yoga_Institute"
+    },
+    {
+        "gm_reviews_count": 80,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Richmond",
+        "state": "British Columbia",
+        "country": "None",
+        "title": "Oxygen Yoga  Fitness Richmond Broadmoor",
+        "summary": "Oxygen Yoga & Fitness Richmond Broadmoor is a supportive and welcoming yoga studio located in Richmond, British Columbia.",
+        "url": "British_Columbia_Oxygen_Yoga_Fitness_Richmond_Broadmoor"
+    },
+    {
+        "gm_reviews_count": 59,
+        "gm_totalScore": 5,
+        "gym_score": 4.7,
+        "city": "Richmond",
+        "state": "British Columbia",
+        "country": "None",
+        "title": "True Yoga  Voted 1 Yoga Studio In Richmond",
+        "summary": "A wonderful yoga studio located in Richmond, British Columbia, offering a friendly atmosphere and a variety of classes.",
+        "url": "British_Columbia_True_Yoga_Voted_1_Yoga_Studio_In_Richmond"
+    },
+    {
+        "gm_reviews_count": 35,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Richmond",
+        "state": "British Columbia",
+        "country": "None",
+        "title": "8th Element Yoga",
+        "summary": "8th Element Yoga is a new yoga studio located in Steveston, British Columbia.",
+        "url": "Richmond_8th_Element_Yoga"
+    },
+    {
+        "gm_reviews_count": 35,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.2,
+        "city": "Richmond",
+        "state": "Victoria",
+        "country": "None",
+        "title": "Bikram Hot Yoga Richmond",
+        "summary": "Bikram Hot Yoga Richmond is a studio located in Richmond, Victoria.",
+        "url": "Victoria_Bikram_Hot_Yoga_Richmond"
+    },
+    {
+        "gm_reviews_count": 69,
+        "gm_totalScore": 4,
+        "gym_score": 3.8,
+        "city": "Richmond",
+        "state": "British Columbia",
+        "country": "None",
+        "title": "Oxygen Yoga  Fitness",
+        "summary": "Oxygen Yoga & Fitness is a well-regarded studio located in Richmond, British Columbia.",
+        "url": "Richmond_Oxygen_Yoga_Fitness"
+    },
+    {
+        "gm_reviews_count": 16,
+        "gm_totalScore": 4.8,
+        "gym_score": 3.7,
+        "city": "Richmond",
+        "state": "Victoria",
+        "country": "None",
+        "title": "High On Yoga Melbourne",
+        "summary": "High On Yoga is a yoga studio located in Richmond, Melbourne.",
+        "url": "Richmond_High_On_Yoga_Melbourne"
+    },
+    {
+        "gm_reviews_count": 9,
+        "gm_totalScore": 5,
+        "gym_score": 3.3,
+        "city": "Richmond",
+        "state": "NSW",
+        "country": "None",
+        "title": "The Yoga Shed Richmond",
+        "summary": "The Yoga Shed, located in Richmond, NSW, is a welcoming studio offering a variety of yoga classes.",
+        "url": "NSW_The_Yoga_Shed_Richmond"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "gm_reviews_count": 453,
+        "gm_totalScore": 5,
+        "gym_score": 5.0,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Innocere Yoga",
+        "summary": "Innocere Yoga in Montreal is a beautiful space that fosters community and personal growth through exceptional yoga practices.",
+        "url": "Montreal_Innocere_Yoga"
+    },
+    {
+        "gm_reviews_count": 80,
+        "gm_totalScore": 5,
+        "gym_score": 4.8,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Espace Mā Yoga",
+        "summary": "Espace Mā Yoga is a warm and elegant yoga studio located in Montreal.",
+        "url": "Montreal_Espace_Mā_Yoga"
+    },
+    {
+        "gm_reviews_count": 123,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.8,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Surya Montréal",
+        "summary": "The yoga studio in Montreal is a welcoming space that fosters community and personal growth.",
+        "url": "Montreal_Surya_Montréal"
+    },
+    {
+        "gm_reviews_count": 85,
+        "gm_totalScore": 5,
+        "gym_score": 4.8,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Samsara Hatha Yoga",
+        "summary": "Samsara Hatha Yoga is a transformative studio located in Montreal, Quebec.",
+        "url": "Montreal_Samsara_Hatha_Yoga"
+    },
+    {
+        "gm_reviews_count": 116,
+        "gm_totalScore": 5,
+        "gym_score": 4.8,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Yoga Yuni",
+        "summary": "An exceptional yoga studio located in Montreal offering personalized and inclusive classes.",
+        "url": "Montreal_Yoga_Yuni"
+    },
+    {
+        "gm_reviews_count": 110,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.7,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Studio Sage  Pilates Yoga  Barre Fitness",
+        "summary": "Aesthetic yoga and pilates studio in Montreal, Quebec.",
+        "url": "Montreal_Studio_Sage_Pilates_Yoga_Barre_Fitness"
+    },
+    {
+        "gm_reviews_count": 69,
+        "gm_totalScore": 5,
+        "gym_score": 4.7,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Institut Yoga Essentiel",
+        "summary": "Institut Yoga Essentiel is a cozy yoga studio located in Montreal.",
+        "url": "Montreal_Institut_Yoga_Essentiel"
+    },
+    {
+        "gm_reviews_count": 64,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.6,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Yoga Shak Montreal",
+        "summary": "Yoga Shak Montreal is a vibrant yoga studio located in Montreal, Quebec.",
+        "url": "Quebec_Yoga_Shak_Montreal"
+    },
+    {
+        "gm_reviews_count": 73,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.6,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Yoga Sangha",
+        "summary": "Yoga Sangha, located in Montreal, provides a unique and diverse yoga experience.",
+        "url": "Montreal_Yoga_Sangha"
+    },
+    {
+        "gm_reviews_count": 47,
+        "gm_totalScore": 5,
+        "gym_score": 4.6,
+        "city": "Montreal",
+        "state": "Quebec",
+        "country": "None",
+        "title": "Studio Sukūn",
+        "summary": "A cozy yoga studio in Montreal known for its aerial yoga classes and welcoming community.",
+        "url": "Montreal_Studio_Sukūn"
+    }
+]

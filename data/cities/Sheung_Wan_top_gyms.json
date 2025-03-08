@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 95,
+        "gm_totalScore": 4.6,
+        "gym_score": 4.4,
+        "city": "Sheung_Wan",
+        "state": "None",
+        "country": "None",
+        "title": "The Yoga Room",
+        "summary": "An exceptional yoga studio located in Sheung Wan, known for its diverse classes and welcoming community.",
+        "url": "Sheung_Wan_The_Yoga_Room"
+    },
+    {
+        "gm_reviews_count": 20,
+        "gm_totalScore": 4.8,
+        "gym_score": 3.9,
+        "city": "Sheung_Wan",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Journey Studio",
+        "summary": "A yoga studio located in Sheung Wan, known for its welcoming community and skilled instructors.",
+        "url": "Sheung_Wan_Yoga_Journey_Studio"
+    },
+    {
+        "gm_reviews_count": 14,
+        "gm_totalScore": 5,
+        "gym_score": 3.7,
+        "city": "Sheung_Wan",
+        "state": "None",
+        "country": "None",
+        "title": "Iyengar Yoga Centre Of Hong Kong",
+        "summary": "Iyengar Yoga Centre of Hong Kong is located in Sheung Wan.",
+        "url": "Sheung_Wan_Iyengar_Yoga_Centre_Of_Hong_Kong"
+    },
+    {
+        "gm_reviews_count": 14,
+        "gm_totalScore": 4.6,
+        "gym_score": 3.4,
+        "city": "Sheung_Wan",
+        "state": "None",
+        "country": "None",
+        "title": "Art Of Living Yoga And Meditation Center",
+        "summary": "Art Of Living Yoga and Meditation Center in Sheung Wan is marked by a negative atmosphere characterized by disrespect.",
+        "url": "Sheung_Wan_Art_Of_Living_Yoga_And_Meditation_Center"
+    },
+    {
+        "gm_reviews_count": 12,
+        "gm_totalScore": 4.7,
+        "gym_score": 3.4,
+        "city": "Sheung_Wan",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Along  Sheung Wan",
+        "summary": "Yoga Along is a welcoming yoga studio located in Sheung Wan.",
+        "url": "Yoga_Along_Sheung_Wan"
+    },
+    {
+        "gm_reviews_count": 7,
+        "gm_totalScore": 3.9,
+        "gym_score": 2.3,
+        "city": "Sheung_Wan",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Pace",
+        "summary": "A yoga studio located in Sheung Wan that emphasizes community and support.",
+        "url": "Sheung_Wan_Yoga_Pace"
+    }
+]

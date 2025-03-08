@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 182,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.8,
+        "city": "Brampton",
+        "state": true,
+        "country": "None",
+        "title": "Yoga4u",
+        "summary": "Yoga4U is a nurturing yoga studio located in Brampton, ON, focusing on prenatal yoga and holistic well-being.",
+        "url": "Brampton_Yoga4u"
+    },
+    {
+        "gm_reviews_count": 129,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.8,
+        "city": "Brampton",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Indian Yoga  Meditation Centre Inc",
+        "summary": "Indian Yoga & Meditation Centre is a top-rated yoga studio located in Brampton, Ontario.",
+        "url": "Brampton_Indian_Yoga_Meditation_Centre_Inc"
+    },
+    {
+        "gm_reviews_count": 279,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.7,
+        "city": "Brampton",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Modo Yoga Brampton",
+        "summary": "Modo Yoga is a welcoming yoga studio located in Brampton.",
+        "url": "Ontario_Modo_Yoga_Brampton"
+    },
+    {
+        "gm_reviews_count": 77,
+        "gm_totalScore": 4.7,
+        "gym_score": 4.5,
+        "city": "Brampton",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Hot Yoga Wellness Brampton",
+        "summary": "Hot Yoga Wellness is a welcoming hot yoga studio located in Brampton, Ontario.",
+        "url": "Ontario_Hot_Yoga_Wellness_Brampton"
+    },
+    {
+        "gm_reviews_count": 32,
+        "gm_totalScore": 5,
+        "gym_score": 4.4,
+        "city": "Brampton",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Ritual Yogahouse",
+        "summary": "Ritual Yogahouse in Brampton is a community-focused yoga studio offering diverse classes in a warm, welcoming environment.",
+        "url": "Brampton_Ritual_Yogahouse"
+    },
+    {
+        "gm_reviews_count": 29,
+        "gm_totalScore": 5,
+        "gym_score": 4.3,
+        "city": "Brampton",
+        "state": "Ontario",
+        "country": "None",
+        "title": "Parms Yoga",
+        "summary": "Parm's Yoga Studio in Brampton, Ontario offers a holistic yoga experience focused on well-being.",
+        "url": "Brampton_Parms_Yoga"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "gm_reviews_count": 57,
+        "gm_totalScore": 5,
+        "gym_score": 4.6,
+        "city": "Prato",
+        "state": "Province of Prato",
+        "country": "None",
+        "title": "Studio Alkimia",
+        "summary": "Studio Alkimia, located in Prato, offers professional and personalized yoga and rehabilitation services.",
+        "url": "Prato_Studio_Alkimia"
+    },
+    {
+        "gm_reviews_count": 26,
+        "gm_totalScore": 5,
+        "gym_score": 4.2,
+        "city": "Prato",
+        "state": "Province of Prato",
+        "country": "None",
+        "title": "Maramel Yoga  Corsi Di Yoga A Prato",
+        "summary": "A remarkable yoga studio in Prato offering transformative Ashtanga classes with expert instruction.",
+        "url": "Province_of_Prato_Maramel_Yoga_Corsi_Di_Yoga_A_Prato"
+    },
+    {
+        "gm_reviews_count": 12,
+        "gm_totalScore": 5,
+        "gym_score": 3.6,
+        "city": "Prato",
+        "state": "Province of Prato",
+        "country": "None",
+        "title": "Shala Yoga Studio  Corsi Yoga A Prato",
+        "summary": "A yoga studio in Prato offering a welcoming environment and diverse classes led by professional instructors.",
+        "url": "Province_of_Prato_Shala_Yoga_Studio_Corsi_Yoga_A_Prato"
+    },
+    {
+        "gm_reviews_count": 11,
+        "gm_totalScore": 4.9,
+        "gym_score": 3.4,
+        "city": "Prato",
+        "state": "Province of Prato",
+        "country": "None",
+        "title": "Surya Yoga",
+        "summary": "A professional yoga studio located in Prato.",
+        "url": "Prato_Surya_Yoga"
+    },
+    {
+        "gm_reviews_count": 9,
+        "gm_totalScore": 5,
+        "gym_score": 3.3,
+        "city": "Prato",
+        "state": "Province of Prato",
+        "country": "None",
+        "title": "Pagoda Yoga Studio",
+        "summary": "Pagoda Yoga Studio is located in Prato, Prato Province.",
+        "url": "Prato_Pagoda_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 9,
+        "gm_totalScore": 4.8,
+        "gym_score": 3.1,
+        "city": "Prato",
+        "state": "Province of Prato",
+        "country": "None",
+        "title": "Three Yoga Studio",
+        "summary": "A magical yoga studio located in Prato, known for its welcoming atmosphere and skilled instructors.",
+        "url": "Prato_Three_Yoga_Studio"
+    }
+]

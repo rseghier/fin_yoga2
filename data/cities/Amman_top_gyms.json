@@ -1,0 +1,112 @@
+[
+    {
+        "gm_reviews_count": 43,
+        "gm_totalScore": 4.9,
+        "gym_score": 4.4,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Yoga Loft",
+        "summary": "Yoga LOFT is located in Amman.",
+        "url": "Amman_Yoga_Loft"
+    },
+    {
+        "gm_reviews_count": 46,
+        "gm_totalScore": 4.8,
+        "gym_score": 4.4,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Namaste Zone",
+        "summary": "Namaste Zone is a well-known yoga studio located in Amman.",
+        "url": "Amman_Namaste_Zone"
+    },
+    {
+        "gm_reviews_count": 37,
+        "gm_totalScore": 4.5,
+        "gym_score": 4.0,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Over The Rainbow",
+        "summary": "A yoga studio located in Amman, known for its professional trainers and welcoming atmosphere.",
+        "url": "Amman_Over_The_Rainbow"
+    },
+    {
+        "gm_reviews_count": 17,
+        "gm_totalScore": 5,
+        "gym_score": 3.9,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Aerial House",
+        "summary": "Aerial House is a vibrant aerial arts studio located in Amman.",
+        "url": "Amman_Aerial_House"
+    },
+    {
+        "gm_reviews_count": 15,
+        "gm_totalScore": 5,
+        "gym_score": 3.8,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Soul Atlas Yoga Studio",
+        "summary": "A fantastic yoga studio located in Jerusalem known for its welcoming atmosphere and skilled instructors.",
+        "url": "Amman_Soul_Atlas_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 13,
+        "gm_totalScore": 5,
+        "gym_score": 3.7,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Reset Studio",
+        "summary": "A top-rated yoga and kickboxing studio located in Amman.",
+        "url": "Amman_Reset_Studio"
+    },
+    {
+        "gm_reviews_count": 13,
+        "gm_totalScore": 4.6,
+        "gym_score": 3.4,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Basement",
+        "summary": "A yoga studio located in Amman, known for its professional coaching and clean facilities.",
+        "url": "Amman_Basement"
+    },
+    {
+        "gm_reviews_count": 11,
+        "gm_totalScore": 4.6,
+        "gym_score": 3.2,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Joflow Yoga",
+        "summary": "JoFlow Yoga is located in Amman.",
+        "url": "Amman_Joflow_Yoga"
+    },
+    {
+        "gm_reviews_count": 8,
+        "gm_totalScore": 4.8,
+        "gym_score": 3.0,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Tribe Yoga Space",
+        "summary": "A yoga studio located in Amman, focusing on community accessibility and inclusivity.",
+        "url": "Amman_Tribe_Yoga_Space"
+    },
+    {
+        "gm_reviews_count": 5,
+        "gm_totalScore": 5,
+        "gym_score": 2.5,
+        "city": "Amman",
+        "state": "None",
+        "country": "None",
+        "title": "Aryatara Yogashala",
+        "summary": "An authentic yoga studio located in Amman, offering balanced classes and meditation.",
+        "url": "Amman_Aryatara_Yogashala"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "gm_reviews_count": 88,
+        "gm_totalScore": 5,
+        "gym_score": 4.8,
+        "city": "Puchong",
+        "state": "Selangor",
+        "country": "None",
+        "title": "Shishya Yoga  Wellness Studio",
+        "summary": "Shishya Yoga & Wellness Studio in Puchong offers a welcoming environment for all levels with experienced instructor Geetha Lai.",
+        "url": "Puchong_Shishya_Yoga_Wellness_Studio"
+    },
+    {
+        "gm_reviews_count": 71,
+        "gm_totalScore": 5,
+        "gym_score": 4.7,
+        "city": "Puchong",
+        "state": "Selangor",
+        "country": "None",
+        "title": "Life Cadio Yoga Studio",
+        "summary": "Life Ca-Dio Yoga Studio in Puchong offers a transformative yoga experience focused on alignment and self-awareness.",
+        "url": "Puchong_Life_Cadio_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 8,
+        "gm_totalScore": 5,
+        "gym_score": 3.1,
+        "city": "Puchong",
+        "state": "Selangor",
+        "country": "None",
+        "title": "Manzoku Yoga Puchong",
+        "summary": "Manzoku Yoga is a yoga studio located in Puchong, Selangor.",
+        "url": "Selangor_Manzoku_Yoga_Puchong"
+    },
+    {
+        "gm_reviews_count": 7,
+        "gm_totalScore": 5,
+        "gym_score": 3.0,
+        "city": "Puchong",
+        "state": "Selangor",
+        "country": "None",
+        "title": "Virtuevana Yoga",
+        "summary": "Virtuevana Yoga is a yoga studio located in Puchong, Selangor.",
+        "url": "Puchong_Virtuevana_Yoga"
+    },
+    {
+        "gm_reviews_count": 22,
+        "gm_totalScore": 3.5,
+        "gym_score": 2.9,
+        "city": "Puchong",
+        "state": "Selangor",
+        "country": "None",
+        "title": "Surya Yoga Puchong",
+        "summary": "Surya Yoga Puchong is a yoga studio located in Puchong Selangor.",
+        "url": "Selangor_Surya_Yoga_Puchong"
+    },
+    {
+        "gm_reviews_count": 6,
+        "gm_totalScore": 5,
+        "gym_score": 2.8,
+        "city": "Puchong",
+        "state": "Selangor",
+        "country": "None",
+        "title": "Tapas Iyengar Yoga Studio",
+        "summary": "A dedicated Iyengar Yoga studio located in Puchong, Selangor.",
+        "url": "Puchong_Tapas_Iyengar_Yoga_Studio"
+    },
+    {
+        "gm_reviews_count": 6,
+        "gm_totalScore": 5,
+        "gym_score": 2.8,
+        "city": "Puchong",
+        "state": "Selangor",
+        "country": "None",
+        "title": "Perfect Yoga",
+        "summary": "Perfect Yoga is a yoga studio located in Puchong, Selangor.",
+        "url": "Puchong_Perfect_Yoga"
+    }
+]
