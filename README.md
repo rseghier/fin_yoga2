@@ -1,6 +1,6 @@
 # FindYoga - Yoga Studio Directory
 
-A Next.js website that helps users find yoga studios in their area. Built with Next.js, Tailwind CSS, and MDX for content management.
+A Next.js website that helps users find yoga studios in their area. Built with Next.js, Tailwind CSS, and MDX for content management
 
 ## Project Structure
 
