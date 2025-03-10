@@ -11,6 +11,8 @@
     "verify-cities": "node scripts/verify-city-pages.js"
   },
   "dependencies": {
+    "@prisma/client": "^6.4.1",
+    "dotenv": "^16.4.7",
     "gray-matter": "^4.0.3",
     "kbar": "^0.1.0-beta.45",
     "leaflet": "^1.9.4",
@@ -29,6 +31,7 @@
     "eslint": "^8.56.0",
     "eslint-config-next": "14.1.0",
     "postcss": "^8.4.33",
+    "prisma": "^6.4.1",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3"
   }

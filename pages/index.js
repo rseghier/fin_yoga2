@@ -5,9 +5,7 @@ import FeaturedCities from '../components/home/FeaturedCities';
 import ExploreMoreCities from '../components/home/ExploreMoreCities';
 import { getFeaturedStudios } from '../utils/studioUtils';
 import { generateSearchIndex } from '../utils/searchUtils';
-import { useState } from 'react';
-import fs from 'fs';
-import path from 'path';
+import { getCityStudioCounts } from '../utils/prismaUtils';
 
 export default function Home({ featuredStudios, cityData }) {
   return (
@@ -49,19 +47,10 @@ export async function getStaticProps() {
     return serializedStudio;
   });
 
-  // Read the JSON file
-  let cityData = {};
-  try {
-    const filePath = path.join(process.cwd(), 'data/cities/city_gym_counts.json');
-    const fileContents = fs.readFileSync(filePath, 'utf8');
-    cityData = JSON.parse(fileContents);
-  } catch (error) {
-    console.error('Error reading city data:', error);
-    // Provide empty object as fallback
-    cityData = {};
-  }
+  // Get city data from Prisma instead of reading from file
+  const cityData = await getCityStudioCounts();
   
-  // Sort cities by number of gyms (descending)
+  // Sort cities by number of studios (descending)
   const sortedCityData = Object.entries(cityData)
     .sort(([, countA], [, countB]) => countB - countA)
     .reduce((acc, [city, count]) => {

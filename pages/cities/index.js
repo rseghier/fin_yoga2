@@ -2,16 +2,15 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Layout from '../../components/Layout';
-import fs from 'fs';
-import path from 'path';
 import { FaSearch } from 'react-icons/fa';
 import { generateSearchIndex } from '../../utils/searchUtils';
+import { getCityStudioCounts } from '../../utils/prismaUtils';
 import { useSearch } from '../../contexts/SearchContext';
 
 export default function AllCities({ cityData }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
-  const citiesPerPage = 36; // Show more cities per page than on the home page
+  const citiesPerPage = 36;
   const router = useRouter();
   const { setLocationSearchTerm } = useSearch();
   
@@ -195,19 +194,10 @@ export async function getStaticProps() {
   // Generate search index at build time
   generateSearchIndex();
   
-  // Read the JSON file
-  let cityData = {};
-  try {
-    const filePath = path.join(process.cwd(), 'data/cities/city_gym_counts.json');
-    const fileContents = fs.readFileSync(filePath, 'utf8');
-    cityData = JSON.parse(fileContents);
-  } catch (error) {
-    console.error('Error reading city data:', error);
-    // Provide empty object as fallback
-    cityData = {};
-  }
+  // Get city data from Prisma instead of reading from file
+  const cityData = await getCityStudioCounts();
   
-  // Sort cities by number of gyms (descending)
+  // Sort cities by number of studios (descending)
   const sortedCityData = Object.entries(cityData)
     .sort(([, countA], [, countB]) => countB - countA)
     .reduce((acc, [city, count]) => {

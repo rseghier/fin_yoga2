@@ -1,0 +1,60 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Studio {
+  id               Int      @id @default(autoincrement())
+  title            String
+  category         String?
+  address          String?
+  neighborhood     String?
+  street           String?
+  city             String?
+  postalCode       String?
+  state            String?
+  countryCode      String?
+  website          String?
+  phone            String?
+  latitude         Float
+  longitude        Float
+  totalScore       Float?
+  reviewsCount     Int?
+  permanentlyClosed Boolean @default(false)
+  temporarilyClosed Boolean @default(false)
+  placeId          String   @unique
+  url              String?
+  reviews          Review[]
+  openingHours     OpeningHour[]
+  images           Image[]
+}
+
+model Review {
+  id         Int     @id @default(autoincrement())
+  studioId   Int
+  reviewer   String?
+  text       String?
+  rating     Int
+  publishedAt DateTime
+  studio     Studio @relation(fields: [studioId], references: [id])
+}
+
+model OpeningHour {
+  id          Int     @id @default(autoincrement())
+  studioId    Int
+  dayOfWeek   String
+  openingTime String
+  closingTime String
+  studio      Studio @relation(fields: [studioId], references: [id])
+}
+
+model Image {
+  id        Int    @id @default(autoincrement())
+  studioId  Int
+  imageUrl  String
+  studio    Studio @relation(fields: [studioId], references: [id])
+}
